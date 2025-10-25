@@ -1,9 +1,9 @@
 ---
 title: "s3作成備忘録"
-emoji: ""
+emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["aws"]
-published: false
+published: true
 ---
 
 # 🪣 S3 バケットの基本設定
