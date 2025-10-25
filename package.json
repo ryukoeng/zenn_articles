@@ -1,0 +1,24 @@
+{
+  "name": "zenn_articles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryukoeng/zenn_articles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ryukoeng/zenn_articles/issues"
+  },
+  "homepage": "https://github.com/ryukoeng/zenn_articles#readme",
+  "dependencies": {
+    "zenn-cli": "^0.2.8"
+  }
+}
