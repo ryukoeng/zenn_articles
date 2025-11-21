@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/ryukoeng/zenn_articles#readme",
   "dependencies": {
-    "zenn-cli": "^0.2.8"
+    "zenn-cli": "^0.2.10"
   }
 }
