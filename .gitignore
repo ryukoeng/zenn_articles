@@ -1,2 +1,6 @@
 node_modules
 .DS_Store
+
+# Claude Code 関連の設定（ローカル運用のため追跡しない）
+.claude/
+CLAUDE.md
