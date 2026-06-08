@@ -9,5 +9,6 @@
 | AWS | [aws.md](aws.md) | EC2 / S3 / VPC など AWS 関連 |
 | ネットワーク | [network.md](network.md) | IPアドレス / TCP/IP / サブネットなど |
 | Web / HTTP | [web.md](web.md) | HTTP ヘッダーなど Web 関連 |
+| 生成AI / アプリ開発 | [ai.md](ai.md) | YouCam など生成AI を組み込んだアプリ開発 |
 
 `published` 列: 公開済み（`published: true`） / 下書き（`published: false`）
