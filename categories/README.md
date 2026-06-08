@@ -10,4 +10,4 @@
 | ネットワーク | [network.md](network.md) | IPアドレス / TCP/IP / サブネットなど |
 | Web / HTTP | [web.md](web.md) | HTTP ヘッダーなど Web 関連 |
 
-`published` 列の記号: ✅ 公開済み（`published: true`） / 📝 下書き（`published: false`）
+`published` 列: 公開済み（`published: true`） / 下書き（`published: false`）
